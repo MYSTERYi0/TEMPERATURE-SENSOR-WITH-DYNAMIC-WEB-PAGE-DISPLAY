@@ -1,4 +1,3 @@
-<body>
 <h1> Temperature-Measurement-and-Displaying-it-on-webpage </h1>
 This project is to showcase the skillsets learnt. This project is an excellent example to show how Arduino UNO and Raspberry Pi can be operated together.
 <hr>
@@ -12,6 +11,4 @@ This project is to showcase the skillsets learnt. This project is an excellent e
     <li>Charger 5V, 2A type B.</li>
     <li>SD card 16 GB (Minimum).</li>
 <hr>
-The arduino is fed with the[arduino](https://github.com/MYSTERYi0/Temperature-Measurement-and-Displaying-it-on-webpage/blob/main/Arduino%20UNO/Arduino%20Sketch.ino) code
-
-</body>
+The arduino is fed with the [arduino](https://github.com/MYSTERYi0/Temperature-Measurement-and-Displaying-it-on-webpage/blob/main/Arduino%20UNO/Arduino%20Sketch.ino) code
