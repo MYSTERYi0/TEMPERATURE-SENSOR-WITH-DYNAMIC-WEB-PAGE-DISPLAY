@@ -11,4 +11,4 @@ This project is to showcase the skillsets learnt. This project is an excellent e
     <li>Charger 5V, 2A type B.</li>
     <li>SD card 16 GB (Minimum).</li>
 <hr>
-The arduino is fed with the [Arduino](https://github.com/MYSTERYi0/Temperature-Measurement-and-Displaying-it-on-webpage/blob/main/Arduino%20UNO/Arduino%20Sketch.ino)code
+The arduino is fed with the [Arduino](https://github.com/MYSTERYi0/Temperature-Measurement-and-Displaying-it-on-webpage/blob/main/Arduino%20UNO/Arduino%20Sketch.ino)
