@@ -21,4 +21,4 @@ This project is to showcase the skillsets learnt. This project is an excellent e
 <li>Data from arduino is taken by Raspberry Pi.</li>
 <li>Same data is proceesed and displayed on webpage</li>
 <hr>
-<b><i>NOTE:- Raspberry Pi is to be connected WiFi. Same website(local host) can be accessed using another device by typing ipadreess/tempApp.php</i></b> ipadreess/tempApp.php
+<b><i>NOTE:- Raspberry Pi is to be connected WiFi. Same website(local host) can be accessed using another device by typing ipadreess/tempApp.php</i></b>
